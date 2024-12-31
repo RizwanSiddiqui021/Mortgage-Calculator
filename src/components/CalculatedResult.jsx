@@ -19,7 +19,7 @@ const CalculatedResult = ({
         <p className="text-[#9ABED5] font-medium mb-4">
           Your monthly repayments
         </p>
-        <h1 className="text-[#D8DB2F] text-6xl font-bold">
+        <h1 className="text-[#D8DB2F] text-5xl font-bold">
           &pound;
           {mortgageType === "Repayment"
             ? monthlyRepayment
