@@ -1,8 +1,19 @@
-# React + Vite
+## About Me
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm Rizwan Siddiqui, a Front-end Web Developer...
 
-Currently, two official plugins are available:
+## Project Name
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mortgage Calculator
+live-site-link: https://mortgage-calculator-rizwan.surge.sh/
+
+## Project description
+
+This website offers a user-friendly mortgage calculator designed to help you estimate your monthly repayments quickly and accurately. Simply input your mortgage amount, term, interest rate, and select the repayment type to calculate. The tool provides clear results, empowering you to make informed decisions about your mortgage options.
+
+## Technologies used
+
+i. ReactJS
+ii. Javascript
+iii. HTML5
+iv. Tailwind CSS
